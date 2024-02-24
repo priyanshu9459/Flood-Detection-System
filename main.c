@@ -157,7 +157,7 @@ void SendMessage()
   Serial.println("sending message.....");
   mySerial.println("AT+CMGF=1");
   delay(1000);
-  mySerial.println("AT+CMGS=\"+917018493476\"\r");
+  mySerial.println("AT+CMGS=\"+917XXXXXXX76\"\r");
   delay(1000);
 
 
