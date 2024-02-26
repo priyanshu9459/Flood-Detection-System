@@ -2,8 +2,7 @@
 
 IoT Early Flood Detection & Avoidance System is an intelligent system which keeps close watch over various natural factors to predict a flood, so we can embrace ourselves for caution, to minimise the damage caused by the flood. 
 
-
- 
+<img width="456" alt="Screenshot 2024-02-26 at 7 53 28 PM" src="https://github.com/priyanshu9459/Flood-Detection-System/assets/74168726/ca2b8062-f555-498a-86cd-c9b6b0e3181a">
 
 
 Natural disasters like a flood can be devastating leading to property damage and loss of lives. 
@@ -17,8 +16,12 @@ meaning the circuit is incomplete and no electricity is passing through the wire
 
 Once the water level drops below a predetermined point, the circuit completes itself and sends electricity through the completed circuit to trigger an alarm. 
 
+<img width="509" alt="Screenshot 2024-02-26 at 7 54 13 PM" src="https://github.com/priyanshu9459/Flood-Detection-System/assets/74168726/59540504-aa6d-413c-9ff0-b568135236d9">
+
+
 The flow sensor on the system keeps eye on the flow of water. The water flow sensor consists of a plastic valve body, a water rotor, and a hall-effect sensor. When water flows through the rotor, rotor rolls. Its speed changes with different rate of flow.
-All the sensors are connected to Arduino UNO, which processes and saves data. The system has wifi feature, which is useful to access the system and its data over IoT.
+
+All the sensors are connected to Arduino UNO, which processes and saves data. The system has wifi feature, which is useful to access the system and its data over IoT.
 
 Objective:
 
