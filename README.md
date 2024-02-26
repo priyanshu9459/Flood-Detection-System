@@ -2,6 +2,9 @@
 
 IoT Early Flood Detection & Avoidance System is an intelligent system which keeps close watch over various natural factors to predict a flood, so we can embrace ourselves for caution, to minimise the damage caused by the flood. 
 
+![image](https://github.com/priyanshu9459/Flood-Detection-System/assets/74168726/ea4ddd12-e759-4331-b368-b1aca3111c55)
+
+
 Natural disasters like a flood can be devastating leading to property damage and loss of lives. 
 
 To eliminate or lessen the impacts of the flood, the system uses various natural factors to detect flood. The system has a wifi connectivity, thus it’s collected data can be accessed from anywhere quite easily using IoT.
